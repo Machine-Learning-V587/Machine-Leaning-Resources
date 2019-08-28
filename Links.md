@@ -1,8 +1,8 @@
-#### 网盘资料
+### 网盘资料
 
 
 
-#### 视频资料
+### 视频资料
 
 1. Meta Learning Tutorial：https://www.bilibili.com/video/av55385836/
 2. 深度学习入门Stanford CS231N: https://www.youtube.com/channel/UCdKG2JnvPu6mY1NDXYFfN0g
